@@ -1,0 +1,14 @@
+/* Universal css */
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+/* Navigation related styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li{
+    
+}
