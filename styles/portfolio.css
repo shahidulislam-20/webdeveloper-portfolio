@@ -99,3 +99,12 @@ nav ul li a{
     justify-content: space-between;
     margin-top: 30px;
 }
+
+/* Do section */
+
+.do-section{
+
+}
+.do-project-container{
+    display: flex;
+}
